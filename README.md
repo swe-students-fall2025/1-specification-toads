@@ -16,7 +16,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a student with a constantly changing life, I want to easily edit habits so that I can constantly adapt them to my progress 
+2. As someone trying to maintain consistent habits, I want to be able to easily delete habits so I can eliminate old and unnecessary distractions
+3. As someone who struggles with consistency, I want to see my historical trends so I can identify patterns and plan around them
+4. As a visual learner, I want to see my habits represented in calendars so that I can easily track my patterns.
+5. As someone who has both short and long term goals, I want to be able to set separate timelines for each habit
 
 ## Activity Diagrams
 
