@@ -26,6 +26,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ![UML diagram for adding a habit](add_habit_UML.png)
 
+![UML diagram for checking off a habit](check_habit_UML.png)
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
