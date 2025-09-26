@@ -20,7 +20,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
-![UML diagram for adding a habit](image.png)
+![UML diagram for adding a habit](add_habit_UML.png)
 
 ## Clickable Prototype
 
