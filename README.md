@@ -4,11 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Samuel Yang - https://github.com/SamuelYang24
-Howard Appel - https://github.com/hna2019
-Sam Murshed - https://github.com/SamMurshed
-Aayan Mathur - https://github.com/aayanmathur
-Matthew Viola - https://github.com/mlv8821-beep
+- Samuel Yang - https://github.com/SamuelYang24
+- Howard Appel - https://github.com/hna2019
+- Sam Murshed - https://github.com/SamMurshed
+- Aayan Mathur - https://github.com/aayanmathur
+- Matthew Viola - https://github.com/mlv8821-beep
 
 ## Stakeholders
 
