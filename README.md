@@ -94,4 +94,4 @@ A little exercise to get started with the specification phase of the software de
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype Link](https://www.figma.com/proto/dQggIsohafbUtdisfnx5L0/team-toads?node-id=62-3&p=f&t=y4BHJZBENfzaxB5a-1&scaling=scale-down&content-scaling=fixed&page-id=62%3A2&starting-point-node-id=62%3A3)
